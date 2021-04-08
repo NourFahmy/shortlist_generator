@@ -1,0 +1,409 @@
+Id,Label,timeset,d4,d5,d6
+n0,n0,,,,Isotonic calibration
+n1,n1,,https://en.wikipedia.org/wiki/Isotonic_regression,,Isotonic regression
+n2,n2,,https://en.wikipedia.org/wiki/No_free_lunch_theorem,,No free lunch theorem
+n3,n3,,https://en.wikipedia.org/wiki/Decision_rule,,Decision rule
+n4,n4,,https://en.wikipedia.org/wiki/Instance,,Instance
+n5,n5,,,,Instance space
+n6,n6,,,,Label space
+n7,n7,,,,Output space
+n8,n8,,https://en.wikipedia.org/wiki/Space,,Space
+n9,n9,,,,Labelled instance
+n10,n10,,https://en.wikipedia.org/wiki/Example,,Example
+n11,n11,,https://en.wikipedia.org/wiki/Domain,,Domain
+n12,n12,,https://en.wikipedia.org/wiki/Receiver_operating_characteristic,,ROC plot
+n13,n13,,https://en.wikipedia.org/wiki/Statistical_classification,,Classification
+n14,n14,,https://en.wikipedia.org/wiki/Precision_and_recall,,Precision
+n15,n15,,https://en.wikipedia.org/wiki/Precision_and_recall,,Recall
+n16,n16,,https://en.wikipedia.org/wiki/F1_score,,F1 score
+n17,n17,,https://en.wikipedia.org/wiki/Accuracy_and_precision,,Accuracy
+n18,n18,,https://en.wikipedia.org/wiki/Statistical_classification,,Classifier
+n19,n19,,,,Nearest-neighbour classifier
+n20,n20,,,,Basic linear classifier
+n21,n21,,https://en.wikipedia.org/wiki/Bayesian_classifier,,Bayesian classifier
+n22,n22,,https://en.wikipedia.org/wiki/Binary_classification,,Binary classification
+n23,n23,,https://en.wikipedia.org/wiki/Multi-class_classification,,Multi-class classification
+n24,n24,,https://en.wikipedia.org/wiki/Confusion_matrix,,Confusion matrix
+n25,n25,,https://en.wikipedia.org/wiki/Contingency_table,,Contingency table
+n26,n26,,,,Majority class
+n27,n27,,,,Scoring classifier
+n28,n28,,,,Coverage plot
+n29,n29,,,,Decision threshold
+n30,n30,,https://en.wikipedia.org/wiki/Scoring_model,,Scoring model
+n31,n31,,https://en.wikipedia.org/wiki/Mean_squared_error,,Mean squared error
+n32,n32,,https://en.wikipedia.org/wiki/Laplace_correction,,Laplace correction
+n33,n33,,,,m-estimate
+n34,n34,,,,Class probability estimation
+n35,n35,,,,One-versus-rest
+n36,n36,,,,One-versus-one
+n37,n37,,,,Output code matrix
+n38,n38,,,,One-versus-one voting
+n39,n39,,,,Loss-based decoding
+n40,n40,,https://en.wikipedia.org/wiki/Receiver_operating_characteristic,,Receiver operating characteristic
+n41,n41,,https://en.wikipedia.org/wiki/Area_under_curve,,Area under curve
+n42,n42,,https://en.wikipedia.org/wiki/Probability,,Probability
+n43,n43,,https://en.wikipedia.org/wiki/Regression_analysis,,Regression
+n44,n44,,,,Ranking classifier
+n45,n45,,,,Function estimator
+n46,n46,,https://en.wikipedia.org/wiki/Regressor,,Regressor
+n47,n47,,https://en.wikipedia.org/wiki/Linear_regression,,Linear regression
+n48,n48,,,,Grouping model
+n49,n49,,,,Classification model
+n50,n50,,https://en.wikipedia.org/wiki/Margin_(machine_learning),,Margin
+n51,n51,,https://en.wikipedia.org/wiki/Regression_model,,Regression model
+n52,n52,,https://en.wikipedia.org/wiki/Model,,Model
+n53,n53,,https://en.wikipedia.org/wiki/Residual_(numerical_analysis),,Residual
+n54,n54,,https://en.wikipedia.org/wiki/Bias_(statistics),,Bias
+n55,n55,,https://en.wikipedia.org/wiki/Variance,,Variance
+n56,n56,,https://en.wikipedia.org/wiki/Bias-variance_dilemma,,Bias-variance dilemma
+n57,n57,,https://en.wikipedia.org/wiki/Learning,,Learning
+n58,n58,,https://en.wikipedia.org/wiki/Unsupervised_learning,,Unsupervised learning
+n59,n59,,https://en.wikipedia.org/wiki/Predictive_model,,Predictive model
+n60,n60,,,,Descriptive model
+n61,n61,,,,Predictive clustering
+n62,n62,,,,Descriptive clustering
+n63,n63,,,,Association rule discovery
+n64,n64,,,,Subgroup discovery
+n65,n65,,https://en.wikipedia.org/wiki/Domain_object,,Domain object
+n66,n66,,https://en.wikipedia.org/wiki/Feature_(machine_learning),,Feature
+n67,n67,,https://en.wikipedia.org/wiki/Data,,Data
+n68,n68,,,,Discovery algorithm
+n69,n69,,https://en.wikipedia.org/wiki/Task_(computing),,Task
+n70,n70,,,,Learning problem
+n71,n71,,https://en.wikipedia.org/wiki/Cluster_analysis,,Cluster
+n72,n72,,https://en.wikipedia.org/wiki/Centroid,,Centroid
+n73,n73,,https://en.wikipedia.org/wiki/Rand_index,,Rand index
+n74,n74,,https://en.wikipedia.org/wiki/F-measure,,F-measure
+n75,n75,,,,Add-one smoothing
+n76,n76,,,,Basic linear algebra subprograms (BLAS)
+n77,n77,,,,Epsilon-greedy strategy/policy
+n78,n78,,https://en.wikipedia.org/wiki/Fingerprint_(computing),,Fingerprinting
+n79,n79,,,,One-hot vector
+n80,n80,,https://en.wikipedia.org/wiki/Skip-grams,,Skip-grams
+n81,n81,,,,Syntactic n-grams
+n82,n82,,https://en.wikipedia.org/wiki/Model_theory,,Logical model
+n83,n83,,https://en.wikipedia.org/wiki/Tree_model,,Tree model
+n84,n84,,,,Rule model
+n85,n85,,,,Least general generalisation (LGG)
+n86,n86,,https://en.wikipedia.org/wiki/Lattice_(order),,Lattice
+n87,n87,,,,Least upper bound (LUB)
+n88,n88,,,,Greatest lower bound (GLB)
+n89,n89,,,,Hypothesis space
+n90,n90,,https://en.wikipedia.org/wiki/Convex_set,,Convex set
+n91,n91,,https://en.wikipedia.org/wiki/Concept,,Concept
+n92,n92,,,A concept is complete if it covers all positive examples.,Complete concept
+n93,n93,,,"A concept is consistent if it covers none of the negative examples. ",Consistent concept
+n94,n94,,https://en.wikipedia.org/wiki/Version_space,"The version space is the set of all complete and consistent concepts. This set is convex and is fully defined by its least and most general elements. ",Version space
+n95,n95,,,,Conjunctively separable
+n96,n96,,,,Most general consistent hypotheses
+n97,n97,,https://en.wikipedia.org/wiki/Closed_concept,,Closed concept
+n98,n98,,https://en.wikipedia.org/wiki/Learnability,,Learnability
+n99,n99,,,,Learning model
+n100,n100,,,,Probably approximately correct (PAC)
+n101,n101,,https://en.wikipedia.org/wiki/Sample_complexity,,Sample complexity
+n102,n102,,https://en.wikipedia.org/wiki/VC-dimension,,VC-dimension
+n103,n103,,https://en.wikipedia.org/wiki/Random_forest,,Random forest
+n104,n104,,https://en.wikipedia.org/wiki/Decision_tree,,Decision tree
+n105,n105,,https://en.wikipedia.org/wiki/Inductive_bias,,Inductive bias
+n106,n106,,,,Feature tree
+n107,n107,,,,Instance space segment
+n108,n108,,https://en.wikipedia.org/wiki/Neural_network,,Neural network
+n109,n109,,https://en.wikipedia.org/wiki/Convolutional_neural_network,,Convolutional Neural Network (CNN)
+n110,n110,,https://en.wikipedia.org/wiki/Recurrent_neural_network,,Recurrent Neural Network (RNN)
+n111,n111,,https://en.wikipedia.org/wiki/Long_short-term_memory,,Long Short-Term Memory (LSTM)
+n112,n112,,https://en.wikipedia.org/wiki/Gated_recurrent_unit,,Gated Recurrent Unit (GRU)
+n113,n113,,https://en.wikipedia.org/wiki/Kernel_(image_processing),,Kernel
+n114,n114,,https://en.wikipedia.org/wiki/Filter_(signal_processing),,Filter
+n115,n115,,https://en.wikipedia.org/wiki/Weight,,Weight
+n116,n116,,https://en.wikipedia.org/wiki/Kernel_(image_processing),,Convolution matrix
+n117,n117,,https://en.wikipedia.org/wiki/Mask,,Mask
+n118,n118,,https://en.wikipedia.org/wiki/Feedforward_neural_network,,Feedforward Neural Network (FFNN)
+n119,n119,,https://en.wikipedia.org/wiki/Backpropagation,,Backpropagation
+n120,n120,,https://en.wikipedia.org/wiki/Deep_learning,,Deep Neural Network (DNN)
+n121,n121,,https://en.wikipedia.org/wiki/Sigmoid_function,,Sigmoid
+n122,n122,,https://en.wikipedia.org/wiki/Error_function,,Error function
+n123,n123,,https://en.wikipedia.org/wiki/Training,,Training
+n124,n124,,https://en.wikipedia.org/wiki/Scalar_(mathematics),,Scalar
+n125,n125,,https://en.wikipedia.org/wiki/Vector_space,,Vector
+n126,n126,,https://en.wikipedia.org/wiki/Matrix_(mathematics),,Matrix
+n127,n127,,https://en.wikipedia.org/wiki/Tensor,,Tensor
+n128,n128,,https://en.wikipedia.org/wiki/Graph_(discrete_mathematics),,Graph
+n129,n129,,https://en.wikipedia.org/wiki/Directed_graph,,Directed graph
+n130,n130,,https://en.wikipedia.org/wiki/Vertex_(graph_theory),,Node
+n131,n131,,https://en.wikipedia.org/wiki/Vertex_(graph_theory),,Edge
+n132,n132,,,,Data flow graph
+n133,n133,,https://en.wikipedia.org/wiki/Dependency_relation,,Dependencies
+n134,n134,,,,Computation graph
+n135,n135,,https://en.wikipedia.org/wiki/Logistic_regression,,Logistic regression
+n136,n136,,,,Softmax classification
+n137,n137,,https://en.wikipedia.org/wiki/Cross-entropy,,Cross-entropy
+n138,n138,,https://en.wikipedia.org/wiki/Layer,,Layer
+n139,n139,,https://en.wikipedia.org/wiki/Neuron,,Neuron
+n140,n140,,https://en.wikipedia.org/wiki/Transfer_function,,Transfer function
+n141,n141,,https://en.wikipedia.org/wiki/Input,,Input
+n142,n142,,https://en.wikipedia.org/wiki/Output,,Output
+n143,n143,,https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer,,Pooling
+n144,n144,,https://en.wikipedia.org/wiki/Convolution,,Convolution
+n145,n145,,https://en.wikipedia.org/wiki/Stride,,Stride
+n146,n146,,https://en.wikipedia.org/wiki/Padding,,Padding
+n147,n147,,https://en.wikipedia.org/wiki/Feature_detection_(computer_vision),,Feature detection
+n148,n148,,https://en.wikipedia.org/wiki/Edge_detection,,Edge detection
+n149,n149,,https://en.wikipedia.org/wiki/Canny_edge_detector,,Canny
+n150,n150,,https://en.wikipedia.org/wiki/Sobel_operator,,Sobel
+n151,n151,,https://en.wikipedia.org/wiki/Prewitt,,Prewitt
+n152,n152,,https://en.wikipedia.org/wiki/Hough_transform,,Hough transform
+n153,n153,,https://en.wikipedia.org/wiki/Dropout_(neural_networks),,Dropout
+n154,n154,,https://en.wikipedia.org/wiki/Max_pooling,,Max pooling
+n155,n155,,,,Average pooling
+n156,n156,,,,Hidden layer
+n157,n157,,https://en.wikipedia.org/wiki/Dimension,,Dimension
+n158,n158,,https://en.wikipedia.org/wiki/Gradient,,Gradient
+n159,n159,,https://en.wikipedia.org/wiki/Slope,,Slope
+n160,n160,,https://en.wikipedia.org/wiki/Gate,,Gate
+n161,n161,,,,Input gate
+n162,n162,,,,Output gate
+n163,n163,,,,Forget gate
+n164,n164,,,,Reset gate
+n165,n165,,,,Forget gate
+n166,n166,,https://en.wikipedia.org/wiki/Embedding,,Embedding
+n167,n167,,,,Sequence classification
+n168,n168,,,,Gradient clipping
+n169,n169,,https://en.wikipedia.org/wiki/Discriminative_model,,Discriminative model
+n170,n170,,https://en.wikipedia.org/wiki/Generative_model,,Generative model
+n171,n171,,https://en.wikipedia.org/wiki/Probability_distribution,,Probability distribution
+n172,n172,,https://en.wikipedia.org/wiki/Joint_probability_distribution,,Joint probability distribution
+n173,n173,,https://en.wikipedia.org/wiki/Conditional_probability_distribution,,Conditional probability distribution
+n174,n174,,https://en.wikipedia.org/wiki/Reinforcement_learning,,Reinforcement learning
+n175,n175,,https://en.wikipedia.org/wiki/State_space_search,,State
+n176,n176,,https://en.wikipedia.org/wiki/Reinforcement_learning,,Action
+n177,n177,,https://en.wikipedia.org/wiki/Policy,,Policy
+n178,n178,,https://en.wikipedia.org/wiki/Reinforcement_learning,,Reward
+n179,n179,,http://www.fon.hum.uva.nl/praat/manual/epoch.html,,Epoch
+n180,n180,,https://en.wikipedia.org/wiki/Value_function,,Value function
+n181,n181,,https://en.wikipedia.org/wiki/Monte_Carlo_method,,Monte Carlo method
+n182,n182,,,,Temporal difference method
+n183,n183,,https://en.wikipedia.org/wiki/Bellman_equation,,Bellman equation
+n184,n184,,,,Markov state
+n185,n185,,https://en.wikipedia.org/wiki/Markov_reward_process,,Markov reward process
+n186,n186,,https://en.wikipedia.org/wiki/Markov_decision_process,,Markov decision process
+n187,n187,,https://en.wikipedia.org/wiki/Markov_process,,Markov process
+n188,n188,,https://en.wikibooks.org/wiki/Artificial_Intelligence/AI_Agents_and_their_Environments,,Environment
+n189,n189,,https://en.wikipedia.org/wiki/Markov_property,,Markov property
+n190,n190,,https://en.wikipedia.org/wiki/Computer_model,,Model
+n191,n191,,,,Transitions model
+n192,n192,,,,Rewards model
+n193,n193,,https://en.wikipedia.org/wiki/Markov_chain,,Markov chain
+n194,n194,,https://en.wikipedia.org/wiki/Transition_probability_matrix,,Transition probability matrix
+n195,n195,,https://en.wikipedia.org/wiki/Reward_function,,Reward function
+n196,n196,,https://en.wikipedia.org/wiki/Discount_factor,,Discount factor
+n197,n197,,https://en.wikipedia.org/wiki/Reinforcement_learning,,Return
+n198,n198,,https://en.wikipedia.org/wiki/Stationary_process,,Stationary process
+n199,n199,,,,State-value function
+n200,n200,,,,Action-value function
+n201,n201,,,,Optimal value function
+n202,n202,,,,Optimal policy
+n203,n203,,https://en.wikipedia.org/wiki/Reinforcement_learning,,Observation
+n204,n204,,https://en.wikipedia.org/wiki/Intelligent_agent,,Agent
+n205,n205,,https://en.wikipedia.org/wiki/Information_state,,Information state
+n206,n206,,https://en.wikipedia.org/wiki/Reinforcement_learning#Exploration,,Exploration
+n207,n207,,https://en.wikipedia.org/wiki/Reinforcement_learning,,Exploitation
+n208,n208,,https://en.wikipedia.org/wiki/Planning,,Planning
+n209,n209,,https://en.wikipedia.org/wiki/Control_theory,,Control
+n210,n210,,https://en.wikipedia.org/wiki/Prediction,,Prediction
+n211,n211,,https://en.wikipedia.org/wiki/Gridworld,,Gridworld
+n212,n212,,,,Fully observable
+n213,n213,,https://en.wikipedia.org/wiki/Partially_observable,,Partially observable
+n214,n214,,https://en.wikipedia.org/wiki/Dynamic_programming,,Dynamic programming
+n215,n215,,https://en.wikipedia.org/wiki/Optimal_substructure,,Optimal substructure
+n216,n216,,https://en.wikipedia.org/wiki/Overlapping_subproblems,,Overlapping subproblems
+n217,n217,,https://en.wikipedia.org/wiki/Policy_iteration,,Policy iteration
+n218,n218,,https://en.wikipedia.org/wiki/Value_iteration,,Value iteration
+n219,n219,,,,Policy evaluation
+n220,n220,,,,First-Visit Monte-Carlo policy evaluation
+n221,n221,,,,Every-Visit Monte-Carlo policy evaluation
+n222,n222,,https://en.wikipedia.org/wiki/Underfitting,,Underfitting
+n223,n223,,https://en.wikipedia.org/wiki/Overfitting,,Overfitting
+n224,n224,,https://en.wikipedia.org/wiki/Regularization_(mathematics),,Regularization
+n225,n225,,https://en.wikipedia.org/wiki/Training_set,,Training set
+n226,n226,,https://en.wikipedia.org/wiki/Validation_set,,Validation set
+n227,n227,,https://en.wikipedia.org/wiki/Test_set,,Test set
+n228,n228,,https://en.wikipedia.org/wiki/Learning_curve,,Learning curve
+n229,n229,,,,k-means
+n230,n230,,,,Elbow method
+n231,n231,,,,Variational autoencoder
+n232,n232,,,,Denoising autoencoder
+n233,n233,,,,Sparse autoencoder
+n234,n234,,https://en.wikipedia.org/wiki/Autoencoder,,Autoencoder
+n235,n235,,https://en.wikipedia.org/wiki/Dimensionality_reduction,,Dimensionality reduction
+n236,n236,,,,"Exponential Linear Unit
+(ELU)"
+n237,n237,,,,"Rectified Linear Unit
+(ReLU)"
+n238,n238,,,,ArcTan
+n239,n239,,,,TanH
+n240,n240,,,,Activation functions
+n241,n241,,https://en.wikipedia.org/wiki/Logistic_function,,Logistic function
+n242,n242,,https://en.wikipedia.org/wiki/Optimization,,Optimization
+n243,n243,,https://en.wikipedia.org/wiki/Simulated_annealing,,Simulated annealing
+n244,n244,,https://en.wikipedia.org/wiki/Hill_climbing,,Hill climbing
+n245,n245,,https://en.wikipedia.org/wiki/Gradient_descent,,Gradient descent
+n246,n246,,https://en.wikipedia.org/wiki/Hopfield_networks,,Hopfield networks
+n247,n247,,https://en.wikipedia.org/wiki/Deep_belief_network,,Deep belief networks (DBN)
+n248,n248,,https://en.wikipedia.org/wiki/Boltzmann_machine,,Deep Boltzman Machines (DBN)
+n249,n249,,https://en.wikipedia.org/wiki/Deep_learning,,Deep learning (layered NN) (DL)
+n250,n250,,https://en.wikipedia.org/wiki/Ensembles,,Ensembles
+n251,n251,,https://en.wikipedia.org/wiki/Perceptron,,Perceptron
+n252,n252,,,,"Relevance vector machine
+(RVM)"
+n253,n253,,https://en.wikipedia.org/wiki/Naive_bayes,,Naive bayes
+n254,n254,,https://en.wikipedia.org/wiki/Decision_trees,,Decision trees
+n255,n255,,https://en.wikipedia.org/wiki/Boosting,,Boosting
+n256,n256,,,,"K nearest neighbors
+(k-NN)"
+n257,n257,,,,"Support vector machine
+(SVM)"
+n258,n258,,https://en.wikipedia.org/wiki/Supervised_learning,,Supervised learning
+n259,n259,,https://en.wikipedia.org/wiki/Feature_vector,,Feature vector
+n260,n260,,https://en.wikipedia.org/wiki/Feature_learning,,Feature learning
+n261,n261,,,,"Sum of squared errors
+(SSE)"
+n262,n262,,,,Local learning algorithms
+n263,n263,,,,Competitive networks
+n264,n264,,,,Association learning
+n265,n265,,https://en.wikipedia.org/wiki/Online_learning,,Online learning
+n266,n266,,https://en.wikipedia.org/wiki/Offline_learning,,Offline learning
+n267,n267,,https://en.wikipedia.org/wiki/Association_rule,,Association rule
+n268,n268,,https://en.wikipedia.org/wiki/Q-learning,,Q-learning
+n269,n269,,https://en.wikipedia.org/wiki/Principal_component_analysis,,Principal component analysis
+n270,n270,,https://en.wikipedia.org/wiki/Anomaly_detection,,Anomaly detection
+n271,n271,,https://en.wikipedia.org/wiki/Andrey_Markov,,Andrey Markov
+n272,n272,,https://en.wikipedia.org/wiki/Richard_E._Bellman,,Richard E. Bellman
+n273,n273,,https://en.wikipedia.org/wiki/Neural_Turing_machine,,Neural Turing machine
+n274,n274,,https://en.wikipedia.org/wiki/Alex_Graves_(computer_scientist),,Alex Graves
+n275,n275,,https://en.wikipedia.org/wiki/Sentiment_analysis,,Sentiment analysis
+n276,n276,,https://en.wikipedia.org/wiki/Named-entity_recognition,,Named-entity recognition
+n277,n277,,https://en.wikipedia.org/wiki/Terminology_extraction,,Terminology extraction
+n278,n278,,https://en.wikipedia.org/wiki/Topic_model,,Topic model
+n279,n279,,https://en.wikipedia.org/wiki/Bag-of-words_model,,Bag-of-words model
+n280,n280,,https://en.wikipedia.org/wiki/Collocation_extraction,,Collocation extraction
+n281,n281,,https://en.wikipedia.org/wiki/Latent_semantic_indexing,,Latent semantic indexing
+n282,n282,,https://en.wikipedia.org/wiki/Part-of-speech_tagging,,Part-of-speech tagging
+n283,n283,,https://en.wikipedia.org/wiki/Speech_corpus,,Speech corpus
+n284,n284,,https://en.wikipedia.org/wiki/Noise_reduction,,Noise reduction
+n285,n285,,https://en.wikipedia.org/wiki/Data_mining,,Data mining
+n286,n286,,https://en.wikipedia.org/wiki/Learning_algorithm,,Learning algorithm
+n287,n287,,https://en.wikipedia.org/wiki/Jaccard_coefficient,,Jaccard coefficient
+n288,n288,,,,Measure of similarity
+n289,n289,,https://en.wikipedia.org/wiki/Latent_variable,,Latent variable
+n290,n290,,https://en.wikipedia.org/wiki/Cross-validation,,Cross-validation
+n291,n291,,https://en.wikipedia.org/wiki/Comprehension,,Comprehension
+n292,n292,,https://en.wikipedia.org/wiki/Understanding,,Understanding
+n293,n293,,,,"Natural language processing
+(NLP)"
+n294,n294,,https://en.wikipedia.org/wiki/Languages,,Languages
+n295,n295,,https://en.wikipedia.org/wiki/Machine_translation,,Machine translation
+n296,n296,,https://en.wikipedia.org/wiki/Chatterbot,,Chatterbot
+n297,n297,,https://en.wikipedia.org/wiki/Text_mining,,Text mining
+n298,n298,,https://en.wikipedia.org/wiki/Concept_mining,,Concept mining
+n299,n299,,https://en.wikipedia.org/wiki/N-gram,,N-gram
+n300,n300,,https://en.wikipedia.org/wiki/Automatic_summarization,,Automatic summarization
+n301,n301,,https://en.wikipedia.org/wiki/Bigram,,Bigram
+n302,n302,,https://en.wikipedia.org/wiki/Example-based_machine_translation,,Example-based machine translation
+n303,n303,,https://en.wikipedia.org/wiki/Grammar_checker,,Grammar checker
+n304,n304,,https://en.wikipedia.org/wiki/Natural_language_generation,,Natural language generation
+n305,n305,,https://en.wikipedia.org/wiki/Rule-based_machine_translation,,Rule-based machine translation
+n306,n306,,https://en.wikipedia.org/wiki/Text_corpus,,Text corpus
+n307,n307,,https://en.wikipedia.org/wiki/Lemmatisation,,Lemmatisation
+n308,n308,,https://en.wikipedia.org/wiki/Multi-document_summarization,,Multi-document summarization
+n309,n309,,https://en.wikipedia.org/wiki/Sentence_extraction,,Sentence extraction
+n310,n310,,https://en.wikipedia.org/wiki/Stemming,,Stemming
+n311,n311,,https://en.wikipedia.org/wiki/Trigrams,,Trigrams
+n312,n312,,https://en.wikipedia.org/wiki/Stop_words,,Stop words
+n313,n313,,https://en.wikipedia.org/wiki/Text_segmentation,,Text segmentation
+n314,n314,,https://en.wikipedia.org/wiki/Text_simplification,,Text simplification
+n315,n315,,https://en.wikipedia.org/wiki/Linguistics,,Linguistics
+n316,n316,,https://en.wikipedia.org/wiki/Spell_checker,,Spell checker
+n317,n317,,https://en.wikipedia.org/wiki/Results,,Structured prediction
+n318,n318,,,,Stochastic gradient descent (SGD)
+n319,n319,,https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Momentum,,Momentum
+n320,n320,,,,Nesterov momentum
+n321,n321,,https://en.wikipedia.org/wiki/Clustering,,Clustering
+n322,n322,,https://en.wikipedia.org/wiki/Object_recognition,,Object recognition
+n323,n323,,https://en.wikipedia.org/wiki/Pattern_recognition,,Recognition
+n324,n324,,https://en.wikipedia.org/wiki/Class_(set_theory),,Class
+n325,n325,,https://en.wikipedia.org/wiki/Label,,Label
+n326,n326,,https://en.wikipedia.org/wiki/Category,,Category
+n327,n327,,,,Measure of distance
+n328,n328,,https://en.wikipedia.org/wiki/Euclidean_distance,,Euclidean distance
+n329,n329,,,,Cosine simiarity
+n330,n330,,,,L-square norm
+n331,n331,,https://en.wikipedia.org/wiki/Mahalanobis_distance,,Mahalanobis distance
+n332,n332,,https://en.wikipedia.org/wiki/Manhattan_distance,,Manhattan distance
+n333,n333,,https://en.wikipedia.org/wiki/Hamming_distance,,Hamming distance
+n334,n334,,https://en.wikipedia.org/wiki/Akritean_distance,,Akritean distance
+n335,n335,,https://en.wikipedia.org/wiki/Minkowski_distance,,Minkowski distance
+n336,n336,,https://en.wikipedia.org/wiki/Chebyshev_distance,,Chebyshev distance
+n337,n337,,https://en.wikipedia.org/wiki/Representation_(mathematics),,Representation
+n338,n338,,https://en.wikipedia.org/wiki/Maximum_likelihood,,Maximum likelihood
+n339,n339,,https://en.wikipedia.org/wiki/Loss_function,,Loss function
+n340,n340,,,,Mean absolute error
+n341,n341,,https://en.wikipedia.org/wiki/Mean_absolute_percentage_error,,Mean absolute percentage error
+n342,n342,,,,Mean squared logarithmic error
+n343,n343,,,,Squared hinge
+n344,n344,,https://en.wikipedia.org/wiki/Hinge_loss,,Hinge
+n345,n345,,,,Categorical cross-entropy
+n346,n346,,,,Sparse categorical cross-entropy
+n347,n347,,,,Binary cross-entropy
+n348,n348,,https://en.wikipedia.org/wiki/Kullback-Leibler_divergence,,Kullback-Leibler divergence
+n349,n349,,https://en.wikipedia.org/wiki/Poisson,,Poisson
+n350,n350,,,,Cosine proximity
+n351,n351,,https://en.wikipedia.org/wiki/Optimizer,,Optimizer
+n352,n352,,,,Root Mean Square Propagation (RMSProp)
+n353,n353,,,,Adaptive Gradient (Adagrad)
+n354,n354,,,,Adaptive Moment Estimation (Adam)
+n355,n355,,,,Adaptive delta (Adadelta)
+n356,n356,,,,Adaptive Moment Estimation max (Adamax)
+n357,n357,,,,Nesterov Adaptive Moment Estimation (Nadam)
+n358,n358,,https://en.wikipedia.org/wiki/Softmax_function,,Softmax
+n359,n359,,https://en.wikipedia.org/wiki/Softplus,,Softplus
+n360,n360,,,,Softsign
+n361,n361,,https://en.wikipedia.org/wiki/Hard_sigmoid,,Hard sigmoid
+n362,n362,,https://en.wikipedia.org/wiki/Linear,,Linear
+n363,n363,,,,Global pooling
+n364,n364,,https://en.wikipedia.org/wiki/Autoencoder,,Encoder
+n365,n365,,https://en.wikipedia.org/wiki/Autoencoder,,Decoder
+n366,n366,,https://en.wikipedia.org/wiki/MNIST,,MNIST
+n367,n367,,https://en.wikipedia.org/wiki/CIFAR,,CIFAR
+n368,n368,,https://en.wikipedia.org/wiki/Data_set,,Data set
+n369,n369,,,,Boston housing price
+n370,n370,,https://en.wikipedia.org/wiki/Library_(computing),,Library
+n371,n371,,https://en.wikipedia.org/wiki/TensorFlow,,TensorFlow
+n372,n372,,https://en.wikipedia.org/wiki/Theano,,Theano
+n373,n373,,https://en.wikipedia.org/wiki/Keras,,Keras
+n374,n374,,https://en.wikipedia.org/wiki/Scikit-learn,,Scikit-learn
+n375,n375,,https://en.wikipedia.org/wiki/Numpy,,Numpy
+n376,n376,,https://en.wikipedia.org/wiki/Scipy,,Scipy
+n377,n377,,https://en.wikipedia.org/wiki/Universal_approximation_theorem,,Universal approximator theorem
+n378,n378,,https://en.wikipedia.org/wiki/Generative_adversarial_networks,,Generative adversarial networks (GAN)
+n379,n379,,https://en.wikipedia.org/wiki/Regret,,Regret
+n380,n380,,https://en.wikipedia.org/wiki/Multi-armed_bandit,,Multi-armed bandit
+n381,n381,,,,Multidimensional Recurrent Neural Network (MDRNN)
+n382,n382,,,,Grid LSTM
+n383,n383,,https://en.wikipedia.org/wiki/Isotonic_regression,,Vision
+n384,n384,,https://en.wikipedia.org/wiki/Isotonic_regression,,Extremal region
+n385,n385,,https://en.wikipedia.org/wiki/Isotonic_regression,,Maximally stable extremal region
+n386,n386,,,,Grid LSTM
+n387,n387,,,,Multidimensional LSTM (MDLSTM)
+n388,n388,,,,Stacked LSTM
+n389,n389,,,,Mutiplicative RNN (MRNN)
+n390,n390,,,,Gated feedback RNN (GFRNN)
+n391,n391,,https://en.wikipedia.org/wiki/Isotonic_regression,,Multilayer perceptron (MLP)
+n392,n392,,https://en.wikipedia.org/wiki/Isotonic_regression,,Differentiable Neural Computer (DNC)
+n393,n393,,,,Bidirectional RNN (BiRNN)
+n394,n394,,https://en.wikipedia.org/wiki/Isotonic_regression,,Statistics
+n395,n395,,,,"This is a concept map of Machine Learning. If you think of any missing concept, please submit a PR @ https://github.com/tomzx/machine-learning-concept-map.
+Use the scrollbars or your middle mouse click to navigate. You can click on nodes, which will bring you to an associated website."
+n396,n396,,,,No page found on Wikipedia
+n397,n397,,https://en.wikipedia.org/wiki/Isotonic_regression,,Manually validated
+n398,n398,,https://en.wikipedia.org/wiki/Instance,,"Page found on Wikipedia, but not manually validated"
+n399,n399,,https://en.wikipedia.org/wiki/Isotonic_regression,,Evolution strategy
